@@ -13,4 +13,4 @@ claim to be verified, not a result to be trusted.
 - [RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps): free course on reverse engineering iOS apps (2.9k★)
 - [nuntius](https://github.com/ivRodriguezCA/nuntius): end-to-end encrypted messaging library (Swift/Kotlin/Java ports in progress)
 
-Writing: [ivrodriguez.com](https://ivrodriguez.com) · Talks: [QCon SF 2019](https://www.infoq.com/presentations/exploiting-ios-vulnerabilities/)
+Writing: [ivrodriguez.com](https://ivrodriguez.com) · Talks: [QCon SF 2019](https://www.infoq.com/presentations/exploiting-ios-vulnerabilities/) · [OWASP Toronto 2018](https://owasp.org/www-chapter-toronto/#2018)
