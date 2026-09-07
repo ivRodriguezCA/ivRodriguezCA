@@ -1,8 +1,9 @@
 ### Ivan Rodriguez, security engineer
 
 I build AI-powered security automation: GenAI agents paired with deterministic tooling that
-detect, attribute, fix-guide and fix-verify issues from code change to production, plus the
-evaluation harnesses, benchmark suites and CI release gates that keep those agents honest.
+detect, attribute, fix-guide and fix-verify issues from code change to production, running
+on AWS infrastructure I build with CDK, plus the evaluation harnesses, benchmark suites and
+CI release gates that keep those agents honest.
 Twelve-plus years of mobile application security and iOS reverse engineering underneath,
 which is why [MobHunt](https://github.com/ivRodriguezCA/MobHunt) exists: an agentic mobile
 bug bounty system whose validation gates kill most of what it finds. An agent's output is a
